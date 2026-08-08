@@ -1,2 +1,1 @@
-# CCM101-jtoralba
-CCM101 Cloud Computing Laboratory Portfolio
+Laboratory-01-Welcome-to-the-Cloud/README.md
