@@ -71,5 +71,4 @@ These services can provide virtual machines where a Linux operating system can r
 
 
 
-![KillerCoda Terminal](screenshots/killercoda-terminal.png)
 
