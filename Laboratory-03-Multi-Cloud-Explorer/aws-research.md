@@ -13,7 +13,7 @@ AWS has data centers in different parts of the world. These are grouped into Reg
 
 The AWS Management Console is a website where users can manage their AWS services. Users can create servers, check storage, manage accounts, and monitor their cloud resources from one place.
 
-## Four Core Services
+## 4 Core Services
 
 ### 1. Amazon EC2
 
