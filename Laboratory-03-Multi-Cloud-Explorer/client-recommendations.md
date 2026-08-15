@@ -75,3 +75,16 @@ I recommend AWS because the company serves customers from different parts of the
 * **Amazon EC2** – Used to run the company's web and application servers.
 * **Elastic Load Balancing** – Used to distribute traffic across servers.
 * **Amazon S3** – Used to store website files, images, and other data.
+
+
+
+# Multi-Cloud Decision Matrix
+
+| Business Requirement        | Recommended Platform  | Justification                                                                                                        |
+| --------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Startup Company**         | AWS                   | AWS has many services that can support a small company and can grow as the business gets more users.                 |
+| **Enterprise Organization** | AWS                   | AWS provides many services that can support large and complex business systems.                                      |
+| **Microsoft Environment**   | Microsoft Azure       | Azure works well with Microsoft products such as Windows Server, Microsoft 365, and Active Directory.                |
+| **AI / Machine Learning**   | Google Cloud Platform | Google Cloud has strong tools for Artificial Intelligence and Machine Learning projects.                             |
+| **Kubernetes Deployment**   | Google Cloud Platform | Google Cloud provides Google Kubernetes Engine, which makes it easier to manage Kubernetes applications.             |
+| **Global Web Application**  | AWS                   | AWS has a large global infrastructure and services that can help applications handle users from different locations. |
