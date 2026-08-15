@@ -26,6 +26,19 @@ Microsoft Azure is the best choice for Microsoft technologies. It works well wit
 
 Google Cloud is a strong choice for Artificial Intelligence and Kubernetes. It provides AI and machine learning tools and has Google Kubernetes Engine for running container applications.
 
+
+# Match the cloud services
+
+This table shows similar services offered by AWS, Microsoft Azure, and Google Cloud Platform.
+
+| Service Category        | AWS        | Microsoft Azure                | Google Cloud Platform          |
+| ----------------------- | ---------- | ------------------------------ | ------------------------------ |
+| **Virtual Machine**     | Amazon EC2 | Azure Virtual Machines         | Compute Engine                 |
+| **Object Storage**      | Amazon S3  | Azure Blob Storage             | Cloud Storage                  |
+| **Identity Management** | AWS IAM    | Microsoft Entra ID             | Cloud IAM                      |
+| **SQL Database**        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| **Kubernetes**          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
 ### 4. Which cloud platform would you personally choose and why?
 
 I would personally choose Microsoft Azure because it is easy to connect with many Microsoft technologies. I also like that Azure provides services for computing, storage, networking, and identity management in one cloud platform.
